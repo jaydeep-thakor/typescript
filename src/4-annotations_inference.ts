@@ -4,4 +4,4 @@
 
 // Inference (Type Inference)
 // When TypeScript automatically figures out the type without you writing it.
-// Example: let age = 20; → TypeScript infers age is a number.
+// Example: let age = 20; → TypeScript infers age is a number. 
