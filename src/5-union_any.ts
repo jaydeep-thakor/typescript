@@ -11,6 +11,7 @@ airlineSeat = "window";
 
 let orders = ["10","25","35","47"];
 let currentOrder: string | undefined;
+// let currentOrder: any;
 
 for(let allOrders of orders){
     if(allOrders === "25"){
